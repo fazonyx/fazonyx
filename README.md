@@ -15,7 +15,7 @@ Gamified guided tours and treasure hunts for cities: geolocated steps, audio, ph
 | **Release & monetization** | Codemagic CI/CD, RevenueCat in-app purchases, store publishing |
 | **How it was built** | End-to-end by one person, with LLM coding agents as a daily workflow |
 
-The app, website and back-office repos are private (commercial product). Happy to walk through the code in a call.
+The code is private (commercial product), but the **[case study](https://github.com/fazonyx/exploratour-case-study)** covers the architecture, the offline pack pipeline, the backend rules and what was harder than expected. Happy to walk through the code in a call.
 
 ## 🔧 Public code
 
