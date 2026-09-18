@@ -21,6 +21,10 @@ The app, website and back-office repos are private (commercial product). Happy t
 
 - [**vie-watcher**](https://github.com/fazonyx/vie-watcher) — bot that watches the official VIE job board and pings me on Telegram when a matching offer appears. Selenium scraper, SQLite dedup, GitHub Actions cron, tests. Zero infrastructure.
 
+## 🎓 School project
+
+**SUB-Explorer** — unmanned underwater vehicle, final-year engineering project at ESME Sudria (team of 3, 6 months). My part: PCB design and routing, embedded programming, 3D printing and mechanical assembly. Finalist, ESME best engineering projects. [Repo](https://github.com/LongefayGuinand-Mael/SUB-Explorer_UnmannedUnderwaterVehicle), maintained by a teammate.
+
 ## 💼 Day job
 
 Embedded software & systems engineering consultant: ECU integration and release management on an automotive powertrain program, embedded development on Linux/Android payment terminals for a US client, test-bench software for aerospace equipment. Safety-critical mindset (ISO 26262, DO-178C exposure).
