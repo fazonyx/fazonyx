@@ -20,6 +20,7 @@ The code is private (commercial product), but the **[case study](https://github.
 ## 🔧 Public code
 
 - [**vie-watcher**](https://github.com/fazonyx/vie-watcher) — bot that watches the official VIE job board and pings me on Telegram when a matching offer appears. Selenium scraper, SQLite dedup, GitHub Actions cron, tests. Zero infrastructure.
+- [**cv-tailor**](https://github.com/fazonyx/cv-tailor) — template for tailoring a CV to each job offer with an AI assistant. Facts live in one YAML file, framing lives in a per-application overlay, and the build refuses a line with no source, a skill listed as a gap, or a page with no margin left at the bottom. Python / ReportLab, GitHub Actions.
 
 ## 🎓 School project
 
